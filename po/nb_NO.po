@@ -1,0 +1,1545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-07-18 21:21+0200\n"
+"PO-Revision-Date: 2009-07-18 21:21+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [campaign]: id=Insane_Hermit
+#. [side]: type=Psychotic Mage, id=Insane Hermit
+#. [side]: type=Psychotic Mage x, id=Insane Hermit
+#: Insane_Hermit/_main.cfg:14 Insane_Hermit/scenarios/05_Overwhelmed.cfg:87
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:41
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:36
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:47
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:69
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:41
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:59
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:32
+msgid "Insane Hermit"
+msgstr ""
+
+#. [campaign]: id=Insane_Hermit
+#: Insane_Hermit/_main.cfg:15
+msgid "IH"
+msgstr ""
+
+#. [campaign]: id=Insane_Hermit
+#: Insane_Hermit/_main.cfg:19
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=Insane_Hermit
+#: Insane_Hermit/_main.cfg:19
+msgid "Fighter"
+msgstr ""
+
+#. [campaign]: id=Insane_Hermit
+#: Insane_Hermit/_main.cfg:20
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=Insane_Hermit
+#: Insane_Hermit/_main.cfg:20
+msgid "Warrior"
+msgstr ""
+
+#. [campaign]: id=Insane_Hermit
+#: Insane_Hermit/_main.cfg:21
+msgid "(Hard)"
+msgstr ""
+
+#. [campaign]: id=Insane_Hermit
+#. [unit_type]: id=Chaos Dragon, race=magic_spawn
+#: Insane_Hermit/_main.cfg:21
+#: Insane_Hermit/units/Magic_Spawn/Chaos_Dragon.cfg:4
+msgid "Chaos Dragon"
+msgstr ""
+
+#. [campaign]: id=Insane_Hermit
+#: Insane_Hermit/_main.cfg:28
+msgid ""
+"In the lands east of Wesnoth, 624 YW, a dangerous hermit from a legend as "
+"old as the elves is rediscovered, and he doesn't want neighbors. As more "
+"people stumble upon the small home of this mage, the creations seen there "
+"are described as more dangerous than before. Can this insane hermit keep "
+"away a power that could be instantly misused?\n"
+"\n"
+"Fight with a unique spawning system, match your small group of superior "
+"forces against the armies of humans, orcs, undead and more.\n"
+"\n"
+"(7 scenarios, crudely balanced.  Scenario 5 is still unbalanced, but "
+"playable.  Epilogue scenario is under construction still and won't appear in "
+"the campaign yet.)\n"
+"\n"
+"A very special thanks to melinath and Huston, for their help in getting this "
+"campaign to work."
+msgstr ""
+
+#. [about]
+#: Insane_Hermit/_main.cfg:31
+msgid "Campaign Design"
+msgstr ""
+
+#. [about]
+#: Insane_Hermit/_main.cfg:37
+msgid "Campaign Maintenance"
+msgstr ""
+
+#. [about]
+#: Insane_Hermit/_main.cfg:43
+msgid "Code Contributors/Fixers"
+msgstr ""
+
+#. [about]
+#: Insane_Hermit/_main.cfg:52
+msgid "Artwork and Graphics Design"
+msgstr ""
+
+#. [scenario]: id=01_First_Contact
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:4
+msgid "First Contact"
+msgstr ""
+
+#. [objective]: condition=win
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:23
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:18
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:29
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:51
+msgid "Defeat the enemy leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:41
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:27
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:22
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:33
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:55
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:45
+msgid "Death of the insane hermit"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:45
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:31
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:26
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:37
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:59
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:49
+msgid "Turns run out"
+msgstr ""
+
+#. [objectives]
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:34
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:29
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:40
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:62
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:52
+msgid "You will get 2 of each unit every odd turn."
+msgstr ""
+
+#. [side]: type=Psychotic Mage, id=Insane Hermit
+#. [side]: type=Psychotic Mage x, id=Insane Hermit
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:92
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:46
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:41
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:52
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:74
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:46
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:64
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:37
+msgid "Insane"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Gweddyn
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:54
+msgid "Gweddyn"
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=Mal-Ravannal
+#. [side]: type=General, id=Frecyn
+#. [side]: type=General, id=Hargwynn
+#. [side]: type=Death Knight, id=Lekarith
+#. [side]: type=Elvish Marshal, id=Elaged
+#. [side]: type=Dwarvish Lord, id=Buran
+#. [side]: type=Orcish Sovereign, id=Bruthart
+#. [side]: type=Elvish Marshal, id=Galrar
+#. [side]: type=Lieutenant, id=Gweddyn
+#. [side]: type=Lieutenant, id=Theodryc
+#. [side]: type=Orcish Warlord, id=Grug
+#. [side]: type=Orcish Slurbow, id=Derrag
+#. [side]: type=Orcish Slurbow, id=Glorak
+#. [side]: type=Death Knight, id=Blawthon
+#. [side]: type=Draug, id=Skelos
+#. [side]: type=Banebow, id=Eradus
+#. [side]: type=Dwarvish Dragonguard, id=Burthan
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:105
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:125
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:145
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:165
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:185
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:205
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:225
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:245
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:59
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:75
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:65
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:84
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:103
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:87
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:106
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:125
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:144
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:59
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:81
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:103
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:125
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:147
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:77
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:50
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:72
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:94
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:116
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:138
+msgid "Sane"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Theodryc
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:70
+msgid "Theodryc"
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:85
+msgid ""
+"NOTICE: Please keep in mind that this campaign works differently as gold "
+"does not matter, your units regularly spawn instead of being recruitable, "
+"and your goal on these first few scenarios is to defeat the enemy as quickly "
+"as possible. Now on to our story . . ."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:88
+msgid ""
+"Little is known about this area in the eastern lands beyond Wesnoth, except "
+"that the few scouting parties that have come here have never returned and "
+"that there was evidence of a hermit mage living next to a small mountain in "
+"this area a few hundred years ago."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:91
+msgid ""
+"Rumors were that this mage went on an unprovoked rampage and destroyed any "
+"human, orc, elf or dwarf that was in the area at the time. Paranoia still "
+"grips the inhabitants of the closest towns. For even though it has been "
+"several centuries, wars with the undead have taught the humans that it's "
+"best not to bet on an evil mage being dead."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:94
+msgid ""
+"But recent military groups disregard the legend nowadays, and this large "
+"scouting party has just left for that land. I hope we don't encounter "
+"trouble. -Lieutenant Theodryc"
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:101
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:92
+msgid ""
+"Look at this land, so many trees and even and old roadway. This is truly a "
+"bounty of nature"
+msgstr ""
+
+#. [message]: speaker=Theodryc
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:105
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:96
+msgid "No wonder the scouting parties didn't return. They didn't want to."
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:109
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:100
+msgid "If that's so, then where are they now?"
+msgstr ""
+
+#. [message]: speaker=Theodryc
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:113
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:104
+msgid ""
+"Maybe that clearing at the base of the mountain. It looks like a nice little "
+"resort."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:117
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:108
+msgid ""
+"*yawn*  What's that noise? Hm, soldiers? WHAT ARE YOU DOING HERE?! THIS LAND "
+"IS RIGHTFULLY MINE AND I WILL NOT TOLERATE ANYONE MOVING IN!!!"
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:121
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:112
+msgid ""
+"(Could this be the same hermit from the stories? Probably not, he doesn't "
+"look like a necromancer.)  This entire forest and roadway is yours? I doubt "
+"that."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:125
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:116
+msgid ""
+"NO, JUST THIS CLEARING!! BUT I CAN TELL THAT YOU WANT MY LAND AND I WILL NOT "
+"GIVE IT, DEAD OR ALIVE!!"
+msgstr ""
+
+#. [message]: speaker=Theodryc
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:129
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:120
+msgid ""
+"We won't take your land, but I'm sure you would let us take the land around "
+"it. Right?"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:133
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:124
+msgid "GET OFF MY LAND!!"
+msgstr ""
+
+#. [message]: speaker=Theodryc
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:137
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:128
+msgid "This doesn't sound good."
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:141
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:132
+msgid "You wimp, these hermits are all bark and no bite. TO ARMS!!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:233
+msgid "NONE SHALL TAKE MY LAND!!"
+msgstr ""
+
+#. [scenario]: id=02_The_Dwarves
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:4
+msgid "The Dwarves"
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:20
+msgid ""
+"They have come again. The outsiders are taking an interest in our land "
+"again. I thought I could protect you, Clara, but I failed. Now I realize "
+"that not even I can change the past, only the future. So I will protect our "
+"land, our research, and our legacy. If only you were here to see the "
+"progress I have made, to give wisdom on my situation, and to help keep the "
+"world away from the knowledge that could destroy it."
+msgstr ""
+
+#. [objective]: condition=win
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:41
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [side]: type=Dwarvish Dragonguard, id=Burthan
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:72
+msgid "Burthan"
+msgstr ""
+
+#. [message]: speaker=Burthan
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:91
+msgid ""
+"This mountain down here may have some good ore to mine. We should "
+"investigate even if any of the locals dissaprove."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:95
+msgid "(Now dwarves?)  GET AWAY FROM MY LAND!!"
+msgstr ""
+
+#. [message]: speaker=Burthan
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:99
+msgid ""
+"We don't want your land, we just want access to the mountain and we're set "
+"on doing that."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:103
+msgid ""
+"I SHALL NEVER LET ANYONE NEAR MY LAND! YOU ARE NO DIFFERENT FROM THE HUMANS "
+"WHO CAME BEFORE! YOU WILL ALL DIE!!"
+msgstr ""
+
+#. [message]: speaker=Burthan
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:107
+msgid ""
+"(The humans have tried to take it? There must be something valuable there.)"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:205
+msgid "NO ARMY WILL BE ALLOWED TO TAKE FROM ME WHAT IS MINE!!"
+msgstr ""
+
+#. [scenario]: id=03_Which_Savages
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:4
+msgid "Which Savages?"
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:20
+msgid ""
+"Why do they keep coming? Should they already fear the power we protected "
+"them from before? I am growing old in the mind even when the body doesn't "
+"age, another affect of our research. Wait, that's it! All creatures smart "
+"enough to make a weapon seek power. They must know, and they all must die. "
+"There is no other way. I wish there was a way to stop this now, but all I "
+"can do is further prepare our servants of magic. I will match their force "
+"with my force for their own good, for the sake of the humans, dwarves and "
+"everyone else who deserves to live without chaos."
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Grug
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:60
+msgid "Grug"
+msgstr ""
+
+#. [side]: type=Orcish Slurbow, id=Derrag
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:79
+msgid "Derrag"
+msgstr ""
+
+#. [side]: type=Orcish Slurbow, id=Glorak
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:98
+msgid "Glorak"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:120
+msgid "I must stop this journal entry, as I see smoke and hear drums."
+msgstr ""
+
+#. [message]: speaker=Grug
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:125
+msgid "Burn the forests, kill everyone. You know the drill."
+msgstr ""
+
+#. [message]: speaker=Derrag
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:129
+msgid "Doesn't it bother you that we haven't seen any villages for a few days?"
+msgstr ""
+
+#. [message]: speaker=Glorak
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:133
+msgid "This land does seem desolate. Could it be a trap?"
+msgstr ""
+
+#. [message]: speaker=Grug
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:137
+msgid ""
+"You fools, this is an easy day for us. We could make out next base here, "
+"possibly on that small mountain over there."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:141
+msgid ""
+"ORCS?! YOU SAVAGES!! I WILL BURN AWAY ALL EVIDENCE OF YOU WITH MY MAGIC, AND "
+"CLAIM REVENGE FOR WHAT YOU HAVE TAKEN FROM ME!!"
+msgstr ""
+
+#. [message]: speaker=Glorak
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:145
+msgid "Could we just go around him?"
+msgstr ""
+
+#. [message]: speaker=Grug
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:149
+msgid ""
+"You moron!! Are you afraid of a hermit mage who probably can't even form "
+"fire? Attack!!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/03_Which_Savages.cfg:248
+msgid ""
+"They are gone. I want to destroy more, even though it won't bring you back, "
+"Clara. If only I could have saved you . . ."
+msgstr ""
+
+#. [scenario]: id=04_Ravannal's_Frustration
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:4
+msgid "Ravannal's Frustration"
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:21
+msgid ""
+"I still remember the day that you died, Clara, despite the fact it has been "
+"over 200 years."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:24
+msgid ""
+"We had just finished constructing our underground lab and the research in "
+"the other caves were going along just fine. We decided to celebrate because "
+"it had taken us 25 years to find a secluded area for our research. I decided "
+"the trespassing defenses could be turned on afterwards, because I wasn't "
+"focused and thought that I could let some chores slide for that day. That "
+"was the mistake that cost me you."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:27
+msgid ""
+"We were out watching the stars in the lookout tower, it was you who first "
+"heard the orcish drums. Just as we were about to leave the tower to prepare "
+"the defenses, the assassins attacked. I was lucky to avoid the knives they "
+"threw, and that my magic didn't fail when I fought them."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:30
+msgid ""
+"The last one managed to poison you with his last knife, and from what I can "
+"tell, it interfered with your magic attack. The force of the blast knocked "
+"the assassin into the sky and you had just seemed to vanish."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:33
+msgid ""
+"The only item that was left was the amulet I gave you when we graduated from "
+"Alduin. I still have that amulet today."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:36
+msgid ""
+"I lost control of myself after that. I obliterated the orcish encampment and "
+"destroyed all who tried to escape. But that revenge did not satisfy me."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:39
+msgid ""
+"I ravaged the countryside, destroying anything I could reach without getting "
+"too far way from home. I felt nothing, for my heart was empty."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:42
+msgid ""
+"When I returned I still felt hopeless. But then I found that continuing our "
+"research was the only thing that made my mind felt stable. So I researched "
+"for years and slowly grew aware that I looked as young as I did during that "
+"tragedy. I still don't know why I don't age, we both strictly avoided "
+"necromancy. But I think that your amulet may have something to do with it, "
+"being the only item to survive your unstable magic attack."
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=Mal-Ravannal
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:100
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:82
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:54
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:45
+msgid "Mal-Ravannal"
+msgstr ""
+
+#. [side]: type=Death Knight, id=Blawthon
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:101
+msgid "Blawthon"
+msgstr ""
+
+#. [side]: type=Draug, id=Skelos
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:120
+msgid "Skelos"
+msgstr ""
+
+#. [side]: type=Banebow, id=Eradus
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:139
+msgid "Eradus"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:178
+msgid ""
+"But enough reminiscing, it seems that someone is trying to use the road."
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:183
+msgid ""
+"So this road will save me a week of marching to Wesnoth? Strange how it "
+"isn't in much use."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:187
+msgid "(Undead?)  GET AWAY FROM MY LAND!!"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:191
+msgid "A rather loud hermit mage. Ignore him."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:195
+msgid ""
+"FOOL!! HUMANS, DWARVES AND ORCS HAVE FALLEN AT MY COMMAND!! UNDEAD ARE NO "
+"DIFFERENT!!"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:199
+msgid ""
+"This mage sounds powerful. Wesnoth can wait. Send the troops and kill that "
+"mage, but I want all of his research intact."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:203
+msgid ""
+"A LICH IS ONE OF THE LAST CREATURES I WOULD ALLOW TO HAVE ACCESS TO THIS "
+"POWER!! I SHALL WIPE YOU AND YOUR ARMY OFF OF THIS WORLD!!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:302
+msgid "(Something wasn't right about when that lich died.)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:306
+msgid ""
+"(Mal-Ravannal's voice)  That's right, that was only an illusion to test your "
+"tactics, next time I will make you fall."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:311
+msgid ""
+"YOU EVIL SCUM!!! THE NEXT TIME I SEE YOU NOT EVEN ILLUSIONS WILL PROTECT "
+"YOU!! I GARUNTEE YOU A DEATH AT THE HANDS OF THE POWER YOU WISH TO STEAL!!"
+msgstr ""
+
+#. [scenario]: id=05_Overwhelmed
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:4
+msgid "Overwhelmed"
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:20
+msgid ""
+"The undead have taken an interest in our works, Clara. I fear that they will "
+"be back again, and I am having doubts about it being an easy victory. I have "
+"restored and improved the defenses, but I doubt that will keep them away "
+"forever. I also sense a great gathering from all directions. So I will hide "
+"all of the notes I can't carry, and make sure the rest are destroyed if I am "
+"defeated. I just hope this doesn't come to our last experiment, the one we "
+"prepared the last chamber for . . ."
+msgstr ""
+
+#. [objective]: condition=win
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:30
+msgid "Defeat 5 enemies from each side."
+msgstr ""
+
+#. [objective]: condition=win
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:33
+msgid "Defeat 8 enemies from each side."
+msgstr ""
+
+#. [objective]: condition=win
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:36
+msgid "Defeat 10 enemies from each side."
+msgstr ""
+
+#. [objectives]
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:48
+msgid ""
+"The scenario still needs to be balanced, so I left what should be enough "
+"time to complete your objective by far."
+msgstr ""
+
+#. [side]: type=General, id=Frecyn
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:120
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:76
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:67
+msgid "Frecyn"
+msgstr ""
+
+#. [side]: type=General, id=Hargwynn
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:140
+msgid "Hargwynn"
+msgstr ""
+
+#. [side]: type=Death Knight, id=Lekarith
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:160
+msgid "Lekarith"
+msgstr ""
+
+#. [side]: type=Elvish Marshal, id=Elaged
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:180
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:120
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:111
+msgid "Elaged"
+msgstr ""
+
+#. [side]: type=Dwarvish Lord, id=Buran
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:200
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:98
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:89
+msgid "Buran"
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, id=Bruthart
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:220
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:142
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:133
+msgid "Bruthart"
+msgstr ""
+
+#. [side]: type=Elvish Marshal, id=Galrar
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:240
+msgid "Galrar"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:261
+msgid ""
+"It seems that my plan has worked, the mage is trapped and I even have "
+"support from other races."
+msgstr ""
+
+#. [message]: speaker=Frecyn
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:265
+msgid ""
+"So that's the person responsible for killing my brother. Fear the might of "
+"our forces!"
+msgstr ""
+
+#. [message]: speaker=Buran
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:269
+msgid ""
+"We will have access to the ore in your mountain if we have to tear your home "
+"apart!!"
+msgstr ""
+
+#. [message]: speaker=Bruthart
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:273
+msgid ""
+"Fellow orcs, let's take revenge on those who mindlessly kill our bretheren."
+msgstr ""
+
+#. [message]: speaker=Galrar
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:277
+msgid "So the rumors are true, there is a hermit mage defiling the forest"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:281
+msgid ""
+"MORON, I HAVE SUSTAINED ONLY THIS SMALL CLEARING FOR SEVERAL CENTURIES!!"
+msgstr ""
+
+#. [message]: speaker=Elaged
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:285
+msgid "Stop lying to us and face your fate!"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:289
+msgid ""
+"(Time to make things worse for him)  Everyone listen!! This mage is a menace "
+"to us all, we should ally against him and then go our own ways once he is "
+"gone!! I only have a interest in his home, the humans for exploration and an "
+"old highway, the dwarves for the mountain, the orcs for revenge, and the "
+"elves for the forest. There is no conflicting interests with eachother, only "
+"the mage."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:293
+msgid "ALLYING WITH UNDEAD?! ALL OF YOU HAVE GONE MAD AND DESERVE TO DIE!!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:386
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:447
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:508
+msgid ""
+"(There's too many. I hate to do this, but I have to fall back) YOU WILL ALL "
+"SUFFER ONCE I RELEASE MY TRUE WRATH!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:707
+msgid ""
+"You fool! You aren't supposed to defeat the enemy leaders. Please contact "
+"the forum for this at www.wesnoth.org if you speak english so I can balance "
+"this scenario. In the meantime, hold back a little bit, ok?"
+msgstr ""
+
+#. [scenario]: id=06_The_Lab
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:4
+msgid "The Lab"
+msgstr ""
+
+#. [objective]: condition=win
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:18
+msgid "Resist until end of turns"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:22
+msgid ""
+"Enemies breach balance symbol (the thing the insane hermit is in the middle "
+"of)"
+msgstr ""
+
+#. [objectives]
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:25
+msgid ""
+"Coordinate your units wisely, as they have a reduced spawn rate and the "
+"enemy isn't going to stop producing units."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:771
+msgid "COME AND GET ME NOW COWARDS!!"
+msgstr ""
+
+#. [message]: speaker=Frecyn
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:775
+msgid "Crap, this doesn't look good."
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:779
+msgid ""
+"It seems we'll be in worse trouble if he finishes whatever he's doing over "
+"there, we should use our strongest forces to push through quickly."
+msgstr ""
+
+#. [message]: speaker=Elaged
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:783
+msgid ""
+"It still scares me how this one mage has created so much down here. We "
+"should kill him before he lets these things run loose."
+msgstr ""
+
+#. [message]: speaker=Bruthart
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:787
+msgid ""
+"We can easily pillage this place afterwards, he must have something of value "
+"down here."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:879
+msgid ""
+"(I should be able to charge the weapon directly now.)  NOW YOU WILL SEE MY "
+"TRUE MIGHT!!"
+msgstr ""
+
+#. [scenario]: id=07_Of_Time_And_Space
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:4
+msgid "Of Time And Space"
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:15
+msgid ""
+"At the back of our lab is the experiment I made from the concept we once "
+"discussed, Clara. The thing you knew we should hide from the world no matter "
+"what. The raw power of it can bridge worlds . . . or destroy them. It pains "
+"me that I have been forced to use this, even on a small scale, this "
+"experiment . . ."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:18
+msgid " . . . the Nova Capacitor."
+msgstr ""
+
+#. [objective]: condition=win
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:27
+msgid ""
+"Keep the enemies out of the charge area (area with the two space radius "
+"around the insane hermit) until the end of turns."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:31
+msgid "Enemies breach charge area."
+msgstr ""
+
+#. [objectives]
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:34
+msgid ""
+"None of the enemy units can cross the chasm, so worry about the bridges."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:165
+msgid ""
+"(How are they keeping up, I guess I'll have finish my ultimate magic spawn "
+"early.)"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:169
+msgid "Now this has to be worth looking into after I kill that mage."
+msgstr ""
+
+#. [message]: speaker=Frecyn
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:173
+msgid ""
+"As long as it is out of this nut's control, I don't really care much about "
+"that."
+msgstr ""
+
+#. [message]: speaker=Buran
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:177
+msgid "I can't believe it, even down here there is no evidence of ore."
+msgstr ""
+
+#. [message]: speaker=Elaged
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:181
+msgid "Focus on the matter at hand, then we can go about our usual business."
+msgstr ""
+
+#. [message]: speaker=Bruthart
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:215
+msgid "(terrified stare)  Uh, crap."
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:219
+msgid "(terrified stare)  I hope that's just an illusion."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:334
+msgid "I feel so much power in the air here. Wait, I sense a change . . ."
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:406
+msgid ""
+"FOOL, YOU DISRUPTED THE WEAPON!!! I'LL HAVE TO CHARGE THIS ALL OVER AGAIN!!"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:410
+msgid ""
+"Now's our chance!! Kill him quickly before more of those things reappear!!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:421
+msgid "(The weapon is ready) NOW FEEL MY WRATH!!"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:425
+msgid ""
+"Somebody stop him!!  I can feel the energy build-up and I think he is "
+"serious."
+msgstr ""
+
+#. [message]: speaker=Bruthart
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:429
+msgid "I'm one step ahead of you . . . NOW!!"
+msgstr ""
+
+#. [unit]: type=Orcish Slayer
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:438
+msgid "Assassin"
+msgstr ""
+
+#. [message]
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:445
+msgid "Die!!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:503
+msgid ""
+"(It's too late to stop now, I'll have to follow through and fire the Nova "
+"Capacitor.)"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:539
+msgid ""
+"I was lucky to put up my magical shield in time, but what happened?  Oh "
+"well, I guess I can just find as much of his research as I can."
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:574
+msgid ""
+"On second thought, I have a visit with Wesnoth scheduled.  I shouldn't be "
+"late."
+msgstr ""
+
+#. [scenario]: id=08_Epilogue
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:4
+msgid "Epilogue"
+msgstr ""
+
+#. [side]: type=Spearman, id=Lisaundra
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:49
+msgid "Lisaundra"
+msgstr ""
+
+#. [side]: type=Spearman, id=Lisaundra
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:54
+msgid "good"
+msgstr ""
+
+#. [side]: type=Dark Dragon, id=Kzardizin
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:66
+msgid "Kzardizin"
+msgstr ""
+
+#. [side]: type=Dark Dragon, id=Kzardizin
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:71
+msgid "evil"
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:82
+msgid ""
+"Due to the Chaos Dragons that were rapidly appearing, I decided it would be "
+"best to leave that place and figure out what to do with it after I conquer "
+"Wesnoth. I will have to rethink my plan due to the unexpected losses from "
+"this event, but victory will still be in my grasp."
+msgstr ""
+
+#. [part]
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:85
+msgid ""
+"It makes me wonder what the fate of the hermit mage is, given how he simply "
+"vanished before the energy wave killed everyone else. He was probably "
+"vaporized if not anything else, I hope. It obviously wasn't what he planned, "
+"and I have a theory the poison might have interfered with the magic. But "
+"that will be another project for after Wesnoth is mine. So I, Mal-Ravannal, "
+"finish this journal entry and wait for something else worth writing about."
+msgstr ""
+
+#. [unit_type]: id=Psychotic Mage x, race=human
+#. [unit_type]: id=Psychotic Mage, race=human
+#: Insane_Hermit/units/Humans/Mage_Psychotic_x.cfg:4
+#: Insane_Hermit/units/Humans/Mage_Psychotic.cfg:4
+msgid "Psychotic Mage"
+msgstr ""
+
+#. [unit_type]: id=Psychotic Mage x, race=human
+#. [unit_type]: id=Psychotic Mage, race=human
+#: Insane_Hermit/units/Humans/Mage_Psychotic_x.cfg:20
+#: Insane_Hermit/units/Humans/Mage_Psychotic.cfg:20
+msgid ""
+"Nobody knows how this mage became so powerful or if that power is the cause "
+"of his insanity. No one knows his name and he has already outlived the "
+"healthiest of elves without using any detectable undead magic. He is "
+"extremely protective of his small piece of land and will often attack anyone "
+"who gets within half a mile of his boundaries. Many mages and psychologists "
+"have left for his home to try to understand and reason with this mage, and "
+"we are still waiting for an answer from them to this day. On a side note, "
+"this mage has learned to massively resist all forms of damage by using his "
+"magic for protection."
+msgstr ""
+
+#. [attack]: type=blade
+#: Insane_Hermit/units/Humans/Mage_Psychotic_x.cfg:49
+#: Insane_Hermit/units/Humans/Mage_Psychotic.cfg:49
+msgid "staff blade"
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Humans/Mage_Psychotic_x.cfg:61
+#: Insane_Hermit/units/Humans/Mage_Psychotic.cfg:61
+msgid "incinerate"
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Humans/Mage_Psychotic_x.cfg:73
+#: Insane_Hermit/units/Humans/Mage_Psychotic.cfg:73
+msgid "flash freeze"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Humans/Mage_Psychotic_x.cfg:85
+#: Insane_Hermit/units/Humans/Mage_Psychotic.cfg:85
+msgid "annihilate"
+msgstr ""
+
+#. [unit_type]: id=Arcane Embodiment, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Embodiment.cfg:4
+msgid "Arcane Embodiment"
+msgstr ""
+
+#. [unit_type]: id=Arcane Embodiment, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Embodiment.cfg:16
+msgid ""
+"(Journal entry of the Insane Hermit) -I have reached success with this small "
+"experiment on creating a commandable form of arcane energy. It strangely "
+"takes a liquid form that is excellent for navigating terrain, but not with "
+"the superior combat abilities I was hoping for. These embodiments seem to be "
+"immune to their own energy and very resistant to other forms of magic. I "
+"would have preferred that they were more resistant to mundane weapons, given "
+"that these creations aren't very resilient. I just hope these will help "
+"defend my land."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Embodiment.cfg:29
+msgid "arcane splash"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Entity.cfg:41
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Embodiment.cfg:41
+msgid "arcane shot"
+msgstr ""
+
+#. [unit_type]: id=Arcane Entity, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Entity.cfg:4
+msgid "Arcane Entity"
+msgstr ""
+
+#. [unit_type]: id=Arcane Entity, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Entity.cfg:16
+msgid ""
+"This thing of arcane energy has taken a more moveable form that makes combat "
+"slightly easier. This is evidence that the mage who commands these entities "
+"is making improvements quickly."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Entity.cfg:29
+msgid "arcane bash"
+msgstr ""
+
+#. [unit_type]: id=Arcane Fighter, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Fighter.cfg:4
+msgid "Arcane Fighter"
+msgstr ""
+
+#. [unit_type]: id=Arcane Fighter, race=magic_spawn
+#. [unit_type]: id=Ice Fighter, race=magic_spawn
+#. [unit_type]: id=Flame Fighter, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Fighter.cfg:16
+#: Insane_Hermit/units/Magic_Spawn/Ice_Fighter.cfg:16
+#: Insane_Hermit/units/Magic_Spawn/Flame_Fighter.cfg:16
+msgid ""
+"These magical menaces have begun forming appendages, making their attacks "
+"slightly faster. They have also begun launching their ranged attacks with "
+"increased speed. This is making people question whether these are a form of "
+"spirit capable of harnessing massive energy."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Fighter.cfg:29
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Golem.cfg:29
+msgid "arcane fist"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Fighter.cfg:41
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Golem.cfg:41
+msgid "arcane wave"
+msgstr ""
+
+#. [unit_type]: id=Arcane Golem, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Golem.cfg:4
+msgid "Arcane Golem"
+msgstr ""
+
+#. [unit_type]: id=Arcane Golem, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane-Golem.cfg:16
+msgid ""
+"Now having taken a form that could be considered half-liquid and half-"
+"gelatonous, these golems are more agile, durable, and stronger than any "
+"previous forms."
+msgstr ""
+
+#. [unit_type]: id=Arcane Titan, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane_Titan.cfg:4
+msgid "Arcane Titan"
+msgstr ""
+
+#. [unit_type]: id=Arcane Titan, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane_Titan.cfg:16
+msgid ""
+"The Titans seem to be the ultimate form for an efficient soldier made of "
+"magic. These brutes have managed to take on what appears to be a solid form "
+"but behaves like smoke when struck. A small army of these could easily take "
+"over large cities in hours, an unsettling thought given the person who "
+"commands these."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane_Titan.cfg:29
+msgid "arcane crush"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane_Titan.cfg:41
+msgid "arcane force"
+msgstr ""
+
+#. [unit_type]: id=Arcane Warrior, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane_Warrior.cfg:4
+msgid "Arcane Warrior"
+msgstr ""
+
+#. [unit_type]: id=Arcane Warrior, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Arcane_Warrior.cfg:16
+msgid ""
+"The Warrior class of these strange forms of magic is adapted for more "
+"efficiency in all aspects. Certain joints and other places have reverted "
+"back to a flame-like form while becoming completely solid everywhere else."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane_Warrior.cfg:29
+msgid "arcane claw"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Arcane_Warrior.cfg:41
+msgid "arcane blast"
+msgstr ""
+
+#. [unit_type]: id=Chaos Dragon, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Chaos_Dragon.cfg:16
+msgid ""
+"The ultimate creation of magic, this dragon composes of and commands water, "
+"rock, nature, fire, ice and arcane energy. This abomination is proof that "
+"magic can have extreme results when harnessed properly."
+msgstr ""
+
+#. [attack]: type=impact
+#: Insane_Hermit/units/Magic_Spawn/Chaos_Dragon.cfg:29
+msgid "granite tail"
+msgstr ""
+
+#. [attack]: type=blade
+#: Insane_Hermit/units/Magic_Spawn/Chaos_Dragon.cfg:41
+msgid "overgrowth claw"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Insane_Hermit/units/Magic_Spawn/Chaos_Dragon.cfg:53
+msgid "water impale"
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Chaos_Dragon.cfg:65
+msgid "subzero"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Insane_Hermit/units/Magic_Spawn/Chaos_Dragon.cfg:77
+msgid "arcane gale"
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Chaos_Dragon.cfg:89
+msgid "solar flare"
+msgstr ""
+
+#. [unit_type]: id=Earth Warrior, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Earth_Warrior.cfg:4
+msgid "Earth Warrior"
+msgstr ""
+
+#. [unit_type]: id=Earth Warrior, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Earth_Warrior.cfg:16
+msgid ""
+"The first appearance of a stone-form soldier, it seems that the lack of "
+"study in this area of magic has slowed the development of this element."
+msgstr ""
+
+#. [attack]: type=impact
+#: Insane_Hermit/units/Magic_Spawn/Earth_Warrior.cfg:29
+msgid "granite fist"
+msgstr ""
+
+#. [attack]: type=impact
+#: Insane_Hermit/units/Magic_Spawn/Earth_Warrior.cfg:41
+msgid "stone launch"
+msgstr ""
+
+#. [unit_type]: id=Flame Entity, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Entity.cfg:4
+msgid "Flame Entity"
+msgstr ""
+
+#. [unit_type]: id=Flame Entity, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Entity.cfg:16
+msgid ""
+"This thing of fire energy has taken a more moveable form that makes combat "
+"slightly easier. This is evidence that the mage who commands these entities "
+"is making improvements quickly."
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Entity.cfg:29
+msgid "fire bash"
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Entity.cfg:41
+msgid "fire shot"
+msgstr ""
+
+#. [unit_type]: id=Flame Fighter, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Fighter.cfg:4
+msgid "Flame Fighter"
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Fighter.cfg:29
+msgid "fire fist"
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Fighter.cfg:41
+#: Insane_Hermit/units/Magic_Spawn/Flame_Golem.cfg:41
+msgid "fire wave"
+msgstr ""
+
+#. [unit_type]: id=Flame Golem, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Golem.cfg:4
+msgid "Flame Golem"
+msgstr ""
+
+#. [unit_type]: id=Flame Golem, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Golem.cfg:16
+msgid ""
+"Now having taken a form that could be considered half-magma and half-"
+"gelatonous flame, these golems are more agile, durable, and stronger than "
+"any previous forms."
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Golem.cfg:29
+msgid "flame fist"
+msgstr ""
+
+#. [unit_type]: id=Flame Titan, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Titan.cfg:4
+msgid "Flame Titan"
+msgstr ""
+
+#. [unit_type]: id=Flame Titan, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Titan.cfg:16
+msgid ""
+"The Titans seem to be the ultimate form for an efficient soldier made of "
+"magic. These brutes have managed to take on what appears to be a solid form "
+"but behaves like magma when struck. A small army of these could easily take "
+"over large cities in hours, an unsettling thought given the person who "
+"commands these."
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Titan.cfg:29
+msgid "magma crush"
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Titan.cfg:41
+msgid "heat stroke"
+msgstr ""
+
+#. [unit_type]: id=Flame Warrior, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Warrior.cfg:4
+msgid "Flame Warrior"
+msgstr ""
+
+#. [unit_type]: id=Flame Warrior, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Flame_Warrior.cfg:16
+msgid ""
+"The Warrior class of these strange forms of magic is adapted for more "
+"efficiency in all aspects. Certain joints and other places have reverted "
+"back to a flame form while becoming solidified magma everywhere else."
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Warrior.cfg:29
+msgid "fire claw"
+msgstr ""
+
+#. [attack]: type=fire
+#: Insane_Hermit/units/Magic_Spawn/Flame_Warrior.cfg:41
+msgid "fire blast"
+msgstr ""
+
+#. [unit_type]: id=Ice Embodiment, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Embodiment.cfg:4
+msgid "Ice Embodiment"
+msgstr ""
+
+#. [unit_type]: id=Ice Embodiment, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Embodiment.cfg:16
+msgid ""
+"(Journal entry of the Insane Hermit) -I have reached success with this small "
+"experiment on creating a commandable form of arcane energy. It seems more "
+"like a living slush than ice, despite the fact that it seems to hold a core "
+"temperature far below freezing. These are excellent at navigating terrain, "
+"but not with the superior combat abilities I was hoping for. These "
+"embodiments seem to be immune to their own energy and very resistant to "
+"other forms of magic. I would have preferred that they were more resistant "
+"to mundane weapons, given that these creations aren't very resilient. I just "
+"hope these will help defend my land."
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Embodiment.cfg:29
+msgid "freeze splash"
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Embodiment.cfg:41
+msgid "freeze shot"
+msgstr ""
+
+#. [unit_type]: id=Ice Entity, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Entity.cfg:4
+msgid "Ice Entity"
+msgstr ""
+
+#. [unit_type]: id=Ice Entity, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Entity.cfg:16
+msgid ""
+"This thing of ice energy has taken a more moveable form that makes combat "
+"slightly easier. This is evidence that the mage who commands these entities "
+"is making improvements quickly."
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Entity.cfg:29
+msgid "ice bash"
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Entity.cfg:41
+msgid "ice shot"
+msgstr ""
+
+#. [unit_type]: id=Ice Fighter, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Fighter.cfg:4
+msgid "Ice Fighter"
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Fighter.cfg:29
+msgid "frost fist"
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Golem.cfg:41
+#: Insane_Hermit/units/Magic_Spawn/Ice_Fighter.cfg:41
+msgid "freeze wave"
+msgstr ""
+
+#. [unit_type]: id=Ice Golem, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Golem.cfg:4
+msgid "Ice Golem"
+msgstr ""
+
+#. [unit_type]: id=Ice Golem, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Golem.cfg:16
+msgid ""
+"Now having taken a form that could be considered half-snow and half-ice, "
+"these golems are more agile, durable, and stronger than any previous forms."
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Golem.cfg:29
+msgid "ice fist"
+msgstr ""
+
+#. [unit_type]: id=Ice Titan, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Titan.cfg:4
+msgid "Ice Titan"
+msgstr ""
+
+#. [unit_type]: id=Ice Titan, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Titan.cfg:16
+msgid ""
+"The Titans seem to be the ultimate form for an efficient soldier made of "
+"magic. These brutes have managed to take on what appears to be a solid form "
+"but behaves like loose snow when struck. A small army of these could easily "
+"take over large cities in hours, an unsettling thought given the person who "
+"commands these."
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Titan.cfg:29
+msgid "ice crush"
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Titan.cfg:41
+msgid "frostbite"
+msgstr ""
+
+#. [unit_type]: id=Ice Warrior, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Warrior.cfg:4
+msgid "Ice Warrior"
+msgstr ""
+
+#. [unit_type]: id=Ice Warrior, race=magic_spawn
+#: Insane_Hermit/units/Magic_Spawn/Ice_Warrior.cfg:16
+msgid ""
+"The Warrior class of these strange forms of magic is adapted for more "
+"efficiency in all aspects. Certain joints and other places have reverted "
+"back to a jagged-crystal form while becoming completely solid ice everywhere "
+"else."
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Warrior.cfg:29
+msgid "ice claw"
+msgstr ""
+
+#. [attack]: type=cold
+#: Insane_Hermit/units/Magic_Spawn/Ice_Warrior.cfg:41
+msgid "blizzard blast"
+msgstr ""
+
+#. [race]: id=magic_spawn
+#: Insane_Hermit/units/units.cfg:4 Insane_Hermit/units/units.cfg:6
+msgid "race^magic_spawn"
+msgstr ""
+
+#. [race]: id=magic_spawn
+#: Insane_Hermit/units/units.cfg:7
+msgid ""
+"These are the mad creations of the Hermit, products of long experimentation."
+msgstr ""
