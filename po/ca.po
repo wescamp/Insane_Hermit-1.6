@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-07-18 21:21+0200\n"
+"POT-Creation-Date: 2009-08-15 19:50+0000\n"
 "PO-Revision-Date: 2009-07-18 21:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:47
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:69
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:41
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:59
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:58
 #: Insane_Hermit/scenarios/06_The_Lab.cfg:32
 msgid "Insane Hermit"
 msgstr ""
@@ -73,9 +73,8 @@ msgid ""
 "Fight with a unique spawning system, match your small group of superior "
 "forces against the armies of humans, orcs, undead and more.\n"
 "\n"
-"(7 scenarios, crudely balanced.  Scenario 5 is still unbalanced, but "
-"playable.  Epilogue scenario is under construction still and won't appear in "
-"the campaign yet.)\n"
+"(7 scenarios, crudely balanced.  Epilogue scenario is under construction "
+"still and won't appear in the campaign yet.)\n"
 "\n"
 "A very special thanks to melinath and Huston, for their help in getting this "
 "campaign to work."
@@ -120,7 +119,7 @@ msgstr ""
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:22
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:33
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:55
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:45
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:44
 msgid "Death of the insane hermit"
 msgstr ""
 
@@ -130,7 +129,7 @@ msgstr ""
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:26
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:37
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:59
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:49
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:48
 msgid "Turns run out"
 msgstr ""
 
@@ -139,7 +138,7 @@ msgstr ""
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:29
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:40
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:62
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:52
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:51
 msgid "You will get 2 of each unit every odd turn."
 msgstr ""
 
@@ -151,7 +150,7 @@ msgstr ""
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:52
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:74
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:46
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:64
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:63
 #: Insane_Hermit/scenarios/06_The_Lab.cfg:37
 msgid "Insane"
 msgstr ""
@@ -187,7 +186,7 @@ msgstr ""
 #: Insane_Hermit/scenarios/05_Overwhelmed.cfg:225
 #: Insane_Hermit/scenarios/05_Overwhelmed.cfg:245
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:59
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:75
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:77
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:65
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:84
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:103
@@ -200,7 +199,7 @@ msgstr ""
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:103
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:125
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:147
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:77
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:76
 #: Insane_Hermit/scenarios/06_The_Lab.cfg:50
 #: Insane_Hermit/scenarios/06_The_Lab.cfg:72
 #: Insane_Hermit/scenarios/06_The_Lab.cfg:94
@@ -210,12 +209,12 @@ msgid "Sane"
 msgstr ""
 
 #. [side]: type=Lieutenant, id=Theodryc
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:70
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:72
 msgid "Theodryc"
 msgstr ""
 
 #. [part]
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:85
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:89
 msgid ""
 "NOTICE: Please keep in mind that this campaign works differently as gold "
 "does not matter, your units regularly spawn instead of being recruitable, "
@@ -224,7 +223,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:88
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:92
 msgid ""
 "Little is known about this area in the eastern lands beyond Wesnoth, except "
 "that the few scouting parties that have come here have never returned and "
@@ -233,7 +232,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:91
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:95
 msgid ""
 "Rumors were that this mage went on an unprovoked rampage and destroyed any "
 "human, orc, elf or dwarf that was in the area at the time. Paranoia still "
@@ -243,7 +242,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:94
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:98
 msgid ""
 "But recent military groups disregard the legend nowadays, and this large "
 "scouting party has just left for that land. I hope we don't encounter "
@@ -251,27 +250,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Gweddyn
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:101
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:92
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:105
 msgid ""
-"Look at this land, so many trees and even and old roadway. This is truly a "
+"Look at this land, so many trees and even an old roadway. This is truly a "
 "bounty of nature"
 msgstr ""
 
 #. [message]: speaker=Theodryc
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:105
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:109
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:96
 msgid "No wonder the scouting parties didn't return. They didn't want to."
 msgstr ""
 
 #. [message]: speaker=Gweddyn
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:109
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:113
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:100
 msgid "If that's so, then where are they now?"
 msgstr ""
 
 #. [message]: speaker=Theodryc
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:113
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:117
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:104
 msgid ""
 "Maybe that clearing at the base of the mountain. It looks like a nice little "
@@ -279,15 +277,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:117
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:108
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:121
 msgid ""
-"*yawn*  What's that noise? Hm, soldiers? WHAT ARE YOU DOING HERE?! THIS LAND "
-"IS RIGHTFULLY MINE AND I WILL NOT TOLERATE ANYONE MOVING IN!!!"
+" *yawn*  What's that noise? Hm, soldiers? What are you doing here?! This "
+"land is rightfully mine and I will not tolerate anyone moving in here!"
 msgstr ""
 
 #. [message]: speaker=Gweddyn
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:121
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:125
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:112
 msgid ""
 "(Could this be the same hermit from the stories? Probably not, he doesn't "
@@ -296,15 +293,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:125
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:116
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:129
 msgid ""
-"NO, JUST THIS CLEARING!! BUT I CAN TELL THAT YOU WANT MY LAND AND I WILL NOT "
-"GIVE IT, DEAD OR ALIVE!!"
+"No, just this clearing! But I can tell that you want my land and I will not "
+"give it up dead or alive!"
 msgstr ""
 
 #. [message]: speaker=Theodryc
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:129
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:133
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:120
 msgid ""
 "We won't take your land, but I'm sure you would let us take the land around "
@@ -312,26 +308,25 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:133
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:124
-msgid "GET OFF MY LAND!!"
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:137
+msgid "Get off my land!"
 msgstr ""
 
 #. [message]: speaker=Theodryc
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:137
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:141
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:128
 msgid "This doesn't sound good."
 msgstr ""
 
 #. [message]: speaker=Gweddyn
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:141
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:145
 #: Insane_Hermit/scenarios/08_Epilogue.cfg:132
 msgid "You wimp, these hermits are all bark and no bite. TO ARMS!!"
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/01_First_Contact.cfg:233
-msgid "NONE SHALL TAKE MY LAND!!"
+#: Insane_Hermit/scenarios/01_First_Contact.cfg:237
+msgid "None shall take my land!"
 msgstr ""
 
 #. [scenario]: id=02_The_Dwarves
@@ -351,50 +346,52 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:41
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:40
 msgid "Defeat the enemy leader"
 msgstr ""
 
 #. [side]: type=Dwarvish Dragonguard, id=Burthan
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:72
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:71
 msgid "Burthan"
 msgstr ""
 
 #. [message]: speaker=Burthan
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:91
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:92
 msgid ""
-"This mountain down here may have some good ore to mine. We should "
-"investigate even if any of the locals dissaprove."
+"I can just sense all of the ore in that mountain to the south.  Launch an "
+"expedition force, we are in for some profit now!"
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:95
-msgid "(Now dwarves?)  GET AWAY FROM MY LAND!!"
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:96
+msgid "(Now dwarves?)  Get away from my land!"
 msgstr ""
 
 #. [message]: speaker=Burthan
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:99
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:100
 msgid ""
-"We don't want your land, we just want access to the mountain and we're set "
-"on doing that."
+"Sorry old man, you'll just have to live somewhere else now.  We will give "
+"you a day to pack up and leave, after that we will come and drive you away "
+"by force."
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:103
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:104
 msgid ""
-"I SHALL NEVER LET ANYONE NEAR MY LAND! YOU ARE NO DIFFERENT FROM THE HUMANS "
-"WHO CAME BEFORE! YOU WILL ALL DIE!!"
+"I shall never let anyone near my land! You are no different than the humans "
+"that came before! You will all die!"
 msgstr ""
 
 #. [message]: speaker=Burthan
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:107
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:108
 msgid ""
-"(The humans have tried to take it? There must be something valuable there.)"
+"(The humans have tried to take it? It seems we already have some "
+"competition.)  New plan!  We take the mountain immediately!"
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:205
-msgid "NO ARMY WILL BE ALLOWED TO TAKE FROM ME WHAT IS MINE!!"
+#: Insane_Hermit/scenarios/02_The_Dwarves.cfg:206
+msgid "No army will be allowed to take from me what is mine!"
 msgstr ""
 
 #. [scenario]: id=03_Which_Savages
@@ -460,8 +457,8 @@ msgstr ""
 #. [message]: speaker=Insane Hermit
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:141
 msgid ""
-"ORCS?! YOU SAVAGES!! I WILL BURN AWAY ALL EVIDENCE OF YOU WITH MY MAGIC, AND "
-"CLAIM REVENGE FOR WHAT YOU HAVE TAKEN FROM ME!!"
+"Orcs?! You savages, I will burn your corpses until the is no physical "
+"remains of you left!"
 msgstr ""
 
 #. [message]: speaker=Glorak
@@ -579,66 +576,66 @@ msgid "Eradus"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:178
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:160
 msgid ""
 "But enough reminiscing, it seems that someone is trying to use the road."
 msgstr ""
 
 #. [message]: speaker=Mal-Ravannal
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:183
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:165
 msgid ""
 "So this road will save me a week of marching to Wesnoth? Strange how it "
 "isn't in much use."
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:187
-msgid "(Undead?)  GET AWAY FROM MY LAND!!"
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:169
+msgid "(Undead?)  Get away from my land!"
 msgstr ""
 
 #. [message]: speaker=Mal-Ravannal
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:191
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:173
 msgid "A rather loud hermit mage. Ignore him."
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:195
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:177
 msgid ""
-"FOOL!! HUMANS, DWARVES AND ORCS HAVE FALLEN AT MY COMMAND!! UNDEAD ARE NO "
-"DIFFERENT!!"
+"Fool! Humans, dwarves and orcs have fallen to my power! Undead are no "
+"different!"
 msgstr ""
 
 #. [message]: speaker=Mal-Ravannal
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:199
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:181
 msgid ""
 "This mage sounds powerful. Wesnoth can wait. Send the troops and kill that "
 "mage, but I want all of his research intact."
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:203
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:185
 msgid ""
-"A LICH IS ONE OF THE LAST CREATURES I WOULD ALLOW TO HAVE ACCESS TO THIS "
-"POWER!! I SHALL WIPE YOU AND YOUR ARMY OFF OF THIS WORLD!!"
+"A lich is one of the last creatures I would allow to take this power! I "
+"shall wipe you and your army away from this world!"
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:302
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:284
 msgid "(Something wasn't right about when that lich died.)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:306
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:288
 msgid ""
-"(Mal-Ravannal's voice)  That's right, that was only an illusion to test your "
-"tactics, next time I will make you fall."
+"(Mal-Ravannal's voice)  That was only an illusion to test your tactics, next "
+"time I will make you fall."
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:311
+#: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:293
 msgid ""
-"YOU EVIL SCUM!!! THE NEXT TIME I SEE YOU NOT EVEN ILLUSIONS WILL PROTECT "
-"YOU!! I GARUNTEE YOU A DEATH AT THE HANDS OF THE POWER YOU WISH TO STEAL!!"
+"You evil scum! The next time I see you not even illusions will protect you! "
+"I garuntee a death by the might of the power you wish to steal!"
 msgstr ""
 
 #. [scenario]: id=05_Overwhelmed
@@ -757,8 +754,7 @@ msgstr ""
 
 #. [message]: speaker=Insane Hermit
 #: Insane_Hermit/scenarios/05_Overwhelmed.cfg:281
-msgid ""
-"MORON, I HAVE SUSTAINED ONLY THIS SMALL CLEARING FOR SEVERAL CENTURIES!!"
+msgid "Moron, I have only sustained this small clearing for centuries!"
 msgstr ""
 
 #. [message]: speaker=Elaged
@@ -773,30 +769,63 @@ msgid ""
 "to us all, we should ally against him and then go our own ways once he is "
 "gone!! I only have a interest in his home, the humans for exploration and an "
 "old highway, the dwarves for the mountain, the orcs for revenge, and the "
-"elves for the forest. There is no conflicting interests with eachother, only "
-"the mage."
+"elves for the forest. There are no conflicting interests with eachother, "
+"only with the mage."
 msgstr ""
 
-#. [message]: speaker=Insane Hermit
+#. [message]: speaker=Hargwynn
 #: Insane_Hermit/scenarios/05_Overwhelmed.cfg:293
-msgid "ALLYING WITH UNDEAD?! ALL OF YOU HAVE GONE MAD AND DESERVE TO DIE!!"
+msgid "He has a point."
+msgstr ""
+
+#. [message]: speaker=Buran
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:297
+msgid "That does make sense, but can we trust him?"
+msgstr ""
+
+#. [message]: speaker=Mal-Ravannal
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:301
+msgid ""
+"I have sustained heavy losses and only survived by making an illusion of "
+"myself.  I have a score to settle with this hermit mage and I don't have "
+"interest in attacking any of you."
+msgstr ""
+
+#. [message]: speaker=Bruthart
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:305
+msgid ""
+"This sounds odd given the tales of undead, but this hermit is a nuisance."
+msgstr ""
+
+#. [message]: speaker=Galrar
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:309
+msgid ""
+"I believe it is best if we ally.  If the lich is lying then we can all fight "
+"against him afterwards."
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:386
-#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:447
-#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:508
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:313
+msgid "Allying with the undead?!  You are all crazy and deserve to die!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:406
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:467
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:528
 msgid ""
-"(There's too many. I hate to do this, but I have to fall back) YOU WILL ALL "
-"SUFFER ONCE I RELEASE MY TRUE WRATH!!"
+"(There's too many. I hate to do this, but I have to fall back) You will all "
+"suffer once I release my true wrath!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:707
+#: Insane_Hermit/scenarios/05_Overwhelmed.cfg:727
+#: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:584
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:1073
 msgid ""
 "You fool! You aren't supposed to defeat the enemy leaders. Please contact "
-"the forum for this at www.wesnoth.org if you speak english so I can balance "
-"this scenario. In the meantime, hold back a little bit, ok?"
+"the forum for this at www.wesnoth.org so I can balance this scenario. In the "
+"meantime, hold back a little bit, ok?"
 msgstr ""
 
 #. [scenario]: id=06_The_Lab
@@ -824,41 +853,48 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/06_The_Lab.cfg:771
-msgid "COME AND GET ME NOW COWARDS!!"
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:156
+msgid ""
+"(Looks like it is time for my other experiments to be tested.  And where did "
+"those keeps come from?"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:775
+msgid "Come and get me now cowards!"
 msgstr ""
 
 #. [message]: speaker=Frecyn
-#: Insane_Hermit/scenarios/06_The_Lab.cfg:775
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:779
 msgid "Crap, this doesn't look good."
 msgstr ""
 
 #. [message]: speaker=Mal-Ravannal
-#: Insane_Hermit/scenarios/06_The_Lab.cfg:779
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:783
 msgid ""
 "It seems we'll be in worse trouble if he finishes whatever he's doing over "
 "there, we should use our strongest forces to push through quickly."
 msgstr ""
 
 #. [message]: speaker=Elaged
-#: Insane_Hermit/scenarios/06_The_Lab.cfg:783
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:787
 msgid ""
 "It still scares me how this one mage has created so much down here. We "
 "should kill him before he lets these things run loose."
 msgstr ""
 
 #. [message]: speaker=Bruthart
-#: Insane_Hermit/scenarios/06_The_Lab.cfg:787
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:791
 msgid ""
 "We can easily pillage this place afterwards, he must have something of value "
 "down here."
 msgstr ""
 
 #. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/06_The_Lab.cfg:879
+#: Insane_Hermit/scenarios/06_The_Lab.cfg:883
 msgid ""
-"(I should be able to charge the weapon directly now.)  NOW YOU WILL SEE MY "
-"TRUE MIGHT!!"
+"(I should be able to charge the weapon directly now.)  Now you will see my "
+"true might!"
 msgstr ""
 
 #. [scenario]: id=07_Of_Time_And_Space
@@ -903,7 +939,7 @@ msgstr ""
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:165
 msgid ""
 "(How are they keeping up, I guess I'll have finish my ultimate magic spawn "
-"early.)"
+"early.  And why is there so many keeps laying around?)"
 msgstr ""
 
 #. [message]: speaker=Mal-Ravannal
@@ -945,8 +981,7 @@ msgstr ""
 
 #. [message]: speaker=Insane Hermit
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:406
-msgid ""
-"FOOL, YOU DISRUPTED THE WEAPON!!! I'LL HAVE TO CHARGE THIS ALL OVER AGAIN!!"
+msgid "Fool, you disrupted the weapon! I'll have to charge it all over again!"
 msgstr ""
 
 #. [message]: speaker=Mal-Ravannal
@@ -957,7 +992,7 @@ msgstr ""
 
 #. [message]: speaker=Insane Hermit
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:421
-msgid "(The weapon is ready) NOW FEEL MY WRATH!!"
+msgid "(The weapon is ready) Now feel my wrath!"
 msgstr ""
 
 #. [message]: speaker=Mal-Ravannal
@@ -969,7 +1004,7 @@ msgstr ""
 
 #. [message]: speaker=Bruthart
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:429
-msgid "I'm one step ahead of you . . . NOW!!"
+msgid "I'm one step ahead of you . . . now!"
 msgstr ""
 
 #. [unit]: type=Orcish Slayer
@@ -999,8 +1034,7 @@ msgstr ""
 #. [message]: speaker=Mal-Ravannal
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:574
 msgid ""
-"On second thought, I have a visit with Wesnoth scheduled.  I shouldn't be "
-"late."
+"On second thought, I have a war with Wesnoth scheduled.  I shouldn't be late."
 msgstr ""
 
 #. [scenario]: id=08_Epilogue
@@ -1046,6 +1080,32 @@ msgid ""
 "and I have a theory the poison might have interfered with the magic. But "
 "that will be another project for after Wesnoth is mine. So I, Mal-Ravannal, "
 "finish this journal entry and wait for something else worth writing about."
+msgstr ""
+
+#. [message]: speaker=Gweddyn
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:92
+msgid ""
+"Look at this land, so many trees and even and old roadway. This is truly a "
+"bounty of nature"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:108
+msgid ""
+"*yawn*  What's that noise? Hm, soldiers? WHAT ARE YOU DOING HERE?! THIS LAND "
+"IS RIGHTFULLY MINE AND I WILL NOT TOLERATE ANYONE MOVING IN!!!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:116
+msgid ""
+"NO, JUST THIS CLEARING!! BUT I CAN TELL THAT YOU WANT MY LAND AND I WILL NOT "
+"GIVE IT, DEAD OR ALIVE!!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: Insane_Hermit/scenarios/08_Epilogue.cfg:124
+msgid "GET OFF MY LAND!!"
 msgstr ""
 
 #. [unit_type]: id=Psychotic Mage x, race=human
@@ -1538,7 +1598,19 @@ msgid "race^magic_spawn"
 msgstr ""
 
 #. [race]: id=magic_spawn
-#: Insane_Hermit/units/units.cfg:7
+#: Insane_Hermit/units/units.cfg:8
 msgid ""
-"These are the mad creations of the Hermit, products of long experimentation."
+"{Journal entry of the Insane Hermit) -I have laid out plans for creating "
+"soldiers made of whatever element I choose held together purely by magical "
+"energy.  These soldiers will probably be able to take on a variety of shapes "
+"once I perfect the process, but simpler forms will have to be used in the "
+"early stages of my work.  I will also have to make them intelligent enough "
+"to obey orders, but not enough to question them.\n"
+"\tFrom my experience with magic it would seem that fire, ice and the arcane "
+"energy are the elements to start with due to how well they react to magic.  "
+"I will have to build some environments for them in my laboratory for them to "
+"form more easily, but that shouldn't be a problem.  Now that I think about "
+"it, these soldiers will be unusually powerful compared to regular soldiers, "
+"with their magical composition.  This will surely make for some much needed "
+"security and force in the event of invaders . . ."
 msgstr ""
