@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-08-15 19:50+0000\n"
+"POT-Creation-Date: 2009-09-07 22:01+0200\n"
 "PO-Revision-Date: 2009-07-18 21:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,7 +16,6 @@ msgstr ""
 #. [side]: type=Psychotic Mage x, id=Insane Hermit
 #: Insane_Hermit/_main.cfg:14 Insane_Hermit/scenarios/05_Overwhelmed.cfg:87
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:41
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:36
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:47
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:69
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:41
@@ -63,7 +62,7 @@ msgid "Chaos Dragon"
 msgstr ""
 
 #. [campaign]: id=Insane_Hermit
-#: Insane_Hermit/_main.cfg:28
+#: Insane_Hermit/_main.cfg:26
 msgid ""
 "In the lands east of Wesnoth, 624 YW, a dangerous hermit from a legend as "
 "old as the elves is rediscovered, and he doesn't want neighbors. As more "
@@ -74,30 +73,26 @@ msgid ""
 "Fight with a unique spawning system, match your small group of superior "
 "forces against the armies of humans, orcs, undead and more.\n"
 "\n"
-"(7 scenarios, crudely balanced.  Epilogue scenario is under construction "
-"still and won't appear in the campaign yet.)\n"
-"\n"
-"A very special thanks to melinath and Huston, for their help in getting this "
-"campaign to work."
+"(7 scenarios, crudely balanced.  Scenario 5 needs massive work.)"
 msgstr ""
 
 #. [about]
-#: Insane_Hermit/_main.cfg:31
+#: Insane_Hermit/_main.cfg:29
 msgid "Campaign Design"
 msgstr ""
 
 #. [about]
-#: Insane_Hermit/_main.cfg:37
+#: Insane_Hermit/_main.cfg:35
 msgid "Campaign Maintenance"
 msgstr ""
 
 #. [about]
-#: Insane_Hermit/_main.cfg:43
+#: Insane_Hermit/_main.cfg:41
 msgid "Code Contributors/Fixers"
 msgstr ""
 
 #. [about]
-#: Insane_Hermit/_main.cfg:52
+#: Insane_Hermit/_main.cfg:50
 msgid "Artwork and Graphics Design"
 msgstr ""
 
@@ -108,7 +103,6 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:23
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:18
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:29
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:51
 msgid "Defeat the enemy leaders"
@@ -117,7 +111,6 @@ msgstr ""
 #. [objective]: condition=lose
 #: Insane_Hermit/scenarios/05_Overwhelmed.cfg:41
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:27
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:22
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:33
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:55
 #: Insane_Hermit/scenarios/02_The_Dwarves.cfg:44
@@ -127,7 +120,6 @@ msgstr ""
 #. [objective]: condition=lose
 #: Insane_Hermit/scenarios/05_Overwhelmed.cfg:45
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:31
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:26
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:37
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:59
 #: Insane_Hermit/scenarios/02_The_Dwarves.cfg:48
@@ -136,7 +128,6 @@ msgstr ""
 
 #. [objectives]
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:34
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:29
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:40
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:62
 #: Insane_Hermit/scenarios/02_The_Dwarves.cfg:51
@@ -147,7 +138,6 @@ msgstr ""
 #. [side]: type=Psychotic Mage x, id=Insane Hermit
 #: Insane_Hermit/scenarios/05_Overwhelmed.cfg:92
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:46
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:41
 #: Insane_Hermit/scenarios/03_Which_Savages.cfg:52
 #: Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:74
 #: Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:46
@@ -259,19 +249,16 @@ msgstr ""
 
 #. [message]: speaker=Theodryc
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:109
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:96
 msgid "No wonder the scouting parties didn't return. They didn't want to."
 msgstr ""
 
 #. [message]: speaker=Gweddyn
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:113
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:100
 msgid "If that's so, then where are they now?"
 msgstr ""
 
 #. [message]: speaker=Theodryc
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:117
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:104
 msgid ""
 "Maybe that clearing at the base of the mountain. It looks like a nice little "
 "resort."
@@ -286,7 +273,6 @@ msgstr ""
 
 #. [message]: speaker=Gweddyn
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:125
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:112
 msgid ""
 "(Could this be the same hermit from the stories? Probably not, he doesn't "
 "look like a necromancer.)  This entire forest and roadway is yours? I doubt "
@@ -302,7 +288,6 @@ msgstr ""
 
 #. [message]: speaker=Theodryc
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:133
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:120
 msgid ""
 "We won't take your land, but I'm sure you would let us take the land around "
 "it. Right?"
@@ -315,13 +300,11 @@ msgstr ""
 
 #. [message]: speaker=Theodryc
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:141
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:128
 msgid "This doesn't sound good."
 msgstr ""
 
 #. [message]: speaker=Gweddyn
 #: Insane_Hermit/scenarios/01_First_Contact.cfg:145
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:132
 msgid "You wimp, these hermits are all bark and no bite. TO ARMS!!"
 msgstr ""
 
@@ -1038,77 +1021,6 @@ msgid ""
 "On second thought, I have a war with Wesnoth scheduled.  I shouldn't be late."
 msgstr ""
 
-#. [scenario]: id=08_Epilogue
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:4
-msgid "Epilogue"
-msgstr ""
-
-#. [side]: type=Spearman, id=Lisaundra
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:49
-msgid "Lisaundra"
-msgstr ""
-
-#. [side]: type=Spearman, id=Lisaundra
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:54
-msgid "good"
-msgstr ""
-
-#. [side]: type=Dark Dragon, id=Kzardizin
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:66
-msgid "Kzardizin"
-msgstr ""
-
-#. [side]: type=Dark Dragon, id=Kzardizin
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:71
-msgid "evil"
-msgstr ""
-
-#. [part]
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:82
-msgid ""
-"Due to the Chaos Dragons that were rapidly appearing, I decided it would be "
-"best to leave that place and figure out what to do with it after I conquer "
-"Wesnoth. I will have to rethink my plan due to the unexpected losses from "
-"this event, but victory will still be in my grasp."
-msgstr ""
-
-#. [part]
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:85
-msgid ""
-"It makes me wonder what the fate of the hermit mage is, given how he simply "
-"vanished before the energy wave killed everyone else. He was probably "
-"vaporized if not anything else, I hope. It obviously wasn't what he planned, "
-"and I have a theory the poison might have interfered with the magic. But "
-"that will be another project for after Wesnoth is mine. So I, Mal-Ravannal, "
-"finish this journal entry and wait for something else worth writing about."
-msgstr ""
-
-#. [message]: speaker=Gweddyn
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:92
-msgid ""
-"Look at this land, so many trees and even and old roadway. This is truly a "
-"bounty of nature"
-msgstr ""
-
-#. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:108
-msgid ""
-"*yawn*  What's that noise? Hm, soldiers? WHAT ARE YOU DOING HERE?! THIS LAND "
-"IS RIGHTFULLY MINE AND I WILL NOT TOLERATE ANYONE MOVING IN!!!"
-msgstr ""
-
-#. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:116
-msgid ""
-"NO, JUST THIS CLEARING!! BUT I CAN TELL THAT YOU WANT MY LAND AND I WILL NOT "
-"GIVE IT, DEAD OR ALIVE!!"
-msgstr ""
-
-#. [message]: speaker=Insane Hermit
-#: Insane_Hermit/scenarios/08_Epilogue.cfg:124
-msgid "GET OFF MY LAND!!"
-msgstr ""
-
 #. [unit_type]: id=Psychotic Mage x, race=human
 #. [unit_type]: id=Psychotic Mage, race=human
 #: Insane_Hermit/units/Humans/Mage_Psychotic_x.cfg:4
@@ -1599,19 +1511,7 @@ msgid "race^magic_spawn"
 msgstr ""
 
 #. [race]: id=magic_spawn
-#: Insane_Hermit/units/units.cfg:8
+#: Insane_Hermit/units/units.cfg:7
 msgid ""
-"{Journal entry of the Insane Hermit) -I have laid out plans for creating "
-"soldiers made of whatever element I choose held together purely by magical "
-"energy.  These soldiers will probably be able to take on a variety of shapes "
-"once I perfect the process, but simpler forms will have to be used in the "
-"early stages of my work.  I will also have to make them intelligent enough "
-"to obey orders, but not enough to question them.\n"
-"\tFrom my experience with magic it would seem that fire, ice and the arcane "
-"energy are the elements to start with due to how well they react to magic.  "
-"I will have to build some environments for them in my laboratory for them to "
-"form more easily, but that shouldn't be a problem.  Now that I think about "
-"it, these soldiers will be unusually powerful compared to regular soldiers, "
-"with their magical composition.  This will surely make for some much needed "
-"security and force in the event of invaders . . ."
+"These are the mad creations of the Hermit, products of long experimentation."
 msgstr ""
