@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-09-07 22:01+0200\n"
+"POT-Creation-Date: 2009-09-28 19:43+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,8 +12,9 @@ msgstr ""
 
 #. [campaign]: id=Insane_Hermit
 #. [side]: type=Psychotic Mage, id=Insane Hermit
+#. [unit]: type=Psychotic Mage, id=Insane Hermit
 #. [side]: type=Psychotic Mage x, id=Insane Hermit
-#: ./Insane_Hermit/_main.cfg:14 ./Insane_Hermit/scenarios/05_Overwhelmed.cfg:87 ./Insane_Hermit/scenarios/01_First_Contact.cfg:41 ./Insane_Hermit/scenarios/03_Which_Savages.cfg:47 ./Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:69 ./Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:41 ./Insane_Hermit/scenarios/02_The_Dwarves.cfg:58 ./Insane_Hermit/scenarios/06_The_Lab.cfg:32
+#: ./Insane_Hermit/_main.cfg:14 ./Insane_Hermit/scenarios/05_Overwhelmed.cfg:87 ./Insane_Hermit/scenarios/01_First_Contact.cfg:41 ./Insane_Hermit/scenarios/08_Epilogue.cfg:571 ./Insane_Hermit/scenarios/03_Which_Savages.cfg:47 ./Insane_Hermit/scenarios/04_Ravannal's_Frustration.cfg:69 ./Insane_Hermit/scenarios/07_Of_Time_And_Space.cfg:41 ./Insane_Hermit/scenarios/02_The_Dwarves.cfg:58 ./Insane_Hermit/scenarios/06_The_Lab.cfg:32
 msgid "Insane Hermit"
 msgstr ""
 
@@ -56,11 +57,11 @@ msgstr ""
 #. [campaign]: id=Insane_Hermit
 #: ./Insane_Hermit/_main.cfg:26
 msgid ""
-"In the lands east of Wesnoth, 624 YW, a dangerous hermit from a legend as old as the elves is rediscovered, and he doesn't want neighbors. As more people stumble upon the small home of this mage, the creations seen there are described as more dangerous than before. Can this insane hermit keep away a power that could be instantly misused?\n"
+"In the lands east of Wesnoth, 624 YW, a dangerous hermit from a legend as old as the elves is rediscovered, and he doesn't want neighbors. As more people stumble upon the small home of this mage, the creations seen there are described as more dangerous than before. Can this insane hermit keep away a power the outside world could insantly misuse?\n"
 "\n"
 "Fight with a unique spawning system, match your small group of superior forces against the armies of humans, orcs, undead and more.\n"
 "\n"
-"(7 scenarios, crudely balanced.  Scenario 5 needs massive work.)"
+"(7 scenarios and 1 cutscene scenario, should be fully functional.)"
 msgstr ""
 
 #. [about]
@@ -780,6 +781,152 @@ msgstr ""
 msgid "On second thought, I have a war with Wesnoth scheduled.  I shouldn't be late."
 msgstr ""
 
+#. [scenario]: id=08_Epilogue
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:4
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:16
+msgid "I was lucky to survive the blast of that device, and even luckier to escape before the chaos dragons could catch up to me.  As I escaped, I noticed that the rest of the creations were appearing rapidly, energized by the blast."
+msgstr ""
+
+#. [part]
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:19
+msgid "It is a shame that I lost many of my finest warriors.  Now my army has lost a decent portion of troops and taking Wesnoth will require different tactics."
+msgstr ""
+
+#. [part]
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:22
+msgid "I still keep thinking of the hermit mage.  How could a single human live for so long and amass such power?  Something has obviously caused him to lose any grasp of reason, but I don't think magic alone could cause it to be that severe.  At least he is gone, hopefully vaporized by his own superweapon.  Nobody would be able to stop him if he had fully completed and utilized those things in his lab."
+msgstr ""
+
+#. [part]
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:25
+msgid "But that is not my problem and probably will never be.  Nightfall is coming and I should begin marching my army.  Wesnoth awaits!  So I, Mal-Ravannal, close this journal entry."
+msgstr ""
+
+#. [side]: type=Ancient Lich, id=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:44
+msgid "??????"
+msgstr ""
+
+#. [unit]: type=Mage of Light, id=Mimyr
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:72
+msgid "Mimyr"
+msgstr ""
+
+#. [unit]: type=Mage of Light, id=Nessa
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:80
+msgid "Nessa"
+msgstr ""
+
+#. [message]: speaker=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:88
+msgid "So, do you surrender, or do you wish to meet your fate with my minions?"
+msgstr ""
+
+#. [message]: speaker=Mimyr
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:92
+msgid "Your undead will always be no match for us!"
+msgstr ""
+
+#. [message]: speaker=Nessa
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:96
+msgid "For years you liches have tried to sieze the altar, and for centuries our Order has repelled every single attack.  Why should you be any different?"
+msgstr ""
+
+#. [message]: speaker=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:100
+msgid "I, unlike the others, had different interests to research.  But I recently received news that there was some very strong magical activity here around 300 years ago and I wish to investigate."
+msgstr ""
+
+#. [message]: speaker=Mimyr
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:104
+msgid "The Order of the Volcanic Altar will never allow such a thing!"
+msgstr ""
+
+#. [message]: speaker=Mimyr
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:123
+msgid "What!!  How can it have little effect?  What the hell are-"
+msgstr ""
+
+#. [message]: speaker=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:145
+msgid "Ha ha ha!  How powerful is your magic now?"
+msgstr ""
+
+#. [message]: speaker=Nessa
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:149
+msgid "Powerful enough to take you out if not your minions."
+msgstr ""
+
+#. [message]: speaker=Nessa
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:155
+msgid "Out of my way!"
+msgstr ""
+
+#. [message]: speaker=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:243
+msgid "Finally, now I can take control of the altar."
+msgstr ""
+
+#. [message]: speaker=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:273
+msgid "Oh for crying out loud, now what?"
+msgstr ""
+
+#. [message]: speaker=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:599
+msgid "(So the rumors are true, the altar can recieve objects from other dimensions.)"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:603
+msgid "Die you evil-  Huh?  Where am I?  I will destroy anyone who tries to capture me!"
+msgstr ""
+
+#. [message]: speaker=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:607
+msgid "(A mage?)  *groan*  (If I have to fight another freakin' mage . . . I just might go crazy.)"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:611
+msgid "More undead?!  I will reduce your bones to dust you spineless piece of crap!"
+msgstr ""
+
+#. [message]: speaker=??????
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:615
+msgid "(This isn't good.)  Kill him before he tries something!"
+msgstr ""
+
+#. [message]: speaker=Insane Hermit
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:653
+msgid "Bring it on!!"
+msgstr ""
+
+#. [endlevel]
+#: ./Insane_Hermit/scenarios/08_Epilogue.cfg:662
+msgid "To be continued . . ."
+msgstr ""
+
+#. [unit_type]: id=Bonesphere Cannon, race=Flamedead
+#: ./Insane_Hermit/units/Flamedead/Bonesphere-cannon.cfg:4
+msgid "Bonesphere Cannon"
+msgstr ""
+
+#. [unit_type]: id=Bonesphere Cannon, race=Flamedead
+#. [race]: id=Flamedead
+#: ./Insane_Hermit/units/Flamedead/Bonesphere-cannon.cfg:16 ./Insane_Hermit/units/units.cfg:17
+msgid "Description revealed in part 2."
+msgstr ""
+
+#. [attack]: type=fire
+#: ./Insane_Hermit/units/Flamedead/Bonesphere-cannon.cfg:29
+msgid "inferno bullet"
+msgstr ""
+
 #. [unit_type]: id=Psychotic Mage x, race=human
 #. [unit_type]: id=Psychotic Mage, race=human
 #: ./Insane_Hermit/units/Humans/Mage_Psychotic_x.cfg:4 ./Insane_Hermit/units/Humans/Mage_Psychotic.cfg:4
@@ -838,8 +985,10 @@ msgid "Arcane Entity"
 msgstr ""
 
 #. [unit_type]: id=Arcane Entity, race=magic_spawn
-#: ./Insane_Hermit/units/Magic_Spawn/Arcane-Entity.cfg:16
-msgid "This thing of arcane energy has taken a more moveable form that makes combat slightly easier. This is evidence that the mage who commands these entities is making improvements quickly."
+#. [unit_type]: id=Ice Entity, race=magic_spawn
+#. [unit_type]: id=Flame Entity, race=magic_spawn
+#: ./Insane_Hermit/units/Magic_Spawn/Arcane-Entity.cfg:16 ./Insane_Hermit/units/Magic_Spawn/Ice_Entity.cfg:16 ./Insane_Hermit/units/Magic_Spawn/Flame_Entity.cfg:16
+msgid "(Journal entry of the Insane Hermit)  I have pushed the experimentation further and now my creations are more skilled with their energy.  They are now capable of perpetually levitating themselves and launching more powerful attacks.  There is more potential for them to have more self-control but it could take time . . ."
 msgstr ""
 
 #. [attack]: type=arcane
@@ -979,11 +1128,6 @@ msgstr ""
 msgid "Flame Entity"
 msgstr ""
 
-#. [unit_type]: id=Flame Entity, race=magic_spawn
-#: ./Insane_Hermit/units/Magic_Spawn/Flame_Entity.cfg:16
-msgid "This thing of fire energy has taken a more moveable form that makes combat slightly easier. This is evidence that the mage who commands these entities is making improvements quickly."
-msgstr ""
-
 #. [attack]: type=fire
 #: ./Insane_Hermit/units/Magic_Spawn/Flame_Entity.cfg:29
 msgid "fire bash"
@@ -1071,7 +1215,7 @@ msgstr ""
 
 #. [unit_type]: id=Ice Embodiment, race=magic_spawn
 #: ./Insane_Hermit/units/Magic_Spawn/Ice_Embodiment.cfg:16
-msgid "(Journal entry of the Insane Hermit) -I have reached success with this small experiment on creating a commandable form of arcane energy. It seems more like a living slush than ice, despite the fact that it seems to hold a core temperature far below freezing. These are excellent at navigating terrain, but not with the superior combat abilities I was hoping for. These embodiments seem to be immune to their own energy and very resistant to other forms of magic. I would have preferred that they were more resistant to mundane weapons, given that these creations aren't very resilient. I just hope these will help defend my land."
+msgid "(Journal entry of the Insane Hermit) -I have reached success with this small experiment on creating a commandable form of ice energy. It seems more like a living slush than ice, despite the fact that it seems to hold a core temperature far below freezing. These are excellent at navigating terrain, but not with the superior combat abilities I was hoping for. These embodiments seem to be immune to their own energy and very resistant to other forms of magic. I would have preferred that they were more resistant to mundane weapons, given that these creations aren't very resilient. I just hope these will help defend my land."
 msgstr ""
 
 #. [attack]: type=cold
@@ -1087,11 +1231,6 @@ msgstr ""
 #. [unit_type]: id=Ice Entity, race=magic_spawn
 #: ./Insane_Hermit/units/Magic_Spawn/Ice_Entity.cfg:4
 msgid "Ice Entity"
-msgstr ""
-
-#. [unit_type]: id=Ice Entity, race=magic_spawn
-#: ./Insane_Hermit/units/Magic_Spawn/Ice_Entity.cfg:16
-msgid "This thing of ice energy has taken a more moveable form that makes combat slightly easier. This is evidence that the mage who commands these entities is making improvements quickly."
 msgstr ""
 
 #. [attack]: type=cold
@@ -1182,5 +1321,10 @@ msgstr ""
 #. [race]: id=magic_spawn
 #: ./Insane_Hermit/units/units.cfg:7
 msgid "These are the mad creations of the Hermit, products of long experimentation."
+msgstr ""
+
+#. [race]: id=Flamedead
+#: ./Insane_Hermit/units/units.cfg:14 ./Insane_Hermit/units/units.cfg:16
+msgid "race^Flamedead"
 msgstr ""
 
